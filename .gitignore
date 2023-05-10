@@ -1,0 +1,11 @@
+# macOS-specific files
+.DS_Store
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
